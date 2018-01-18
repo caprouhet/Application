@@ -1,0 +1,33 @@
+html {
+  background-color: #E6E6E6;
+}
+ .eat{
+      display: flex;
+      justify-content: space-between;
+      background-color: black;
+}
+.titre {
+  color: white;
+}
+
+.img1 {
+      width: 95%;
+}
+
+.img{
+      background-color: white;
+}
+
+.menu {
+      width: 15%;
+      height: 15%;
+}
+
+.texte{
+      background-color: white;
+
+}
+
+.bobun {
+      width: 95%;
+}
