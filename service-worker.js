@@ -7,6 +7,7 @@ const RESOURCES_TO_PRELOAD = [
   'icon.png',
 	'app.js',
 	'manifest.json'
+	'tw-16-emoji.css'
 ];
 
 // what do we do when we want to install the application ?
