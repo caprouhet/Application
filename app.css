@@ -31,3 +31,10 @@ html {
 .bobun {
       width: 95%;
 }
+
+.box {
+
+      background-color: white;
+      display: flex;
+      justify-content: flex-start;
+}
